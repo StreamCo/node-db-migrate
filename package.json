@@ -26,7 +26,7 @@
   "dependencies": {
     "optimist": "~0.3.0",
     "async": "~0.1.15",
-    "semver": "~1.0.14",
+    "semver": "~7.3.2",
     "mkdirp": "~0.3.4",
     "moment": "~1.7.2",
     "pkginfo": "~0.3.0",
