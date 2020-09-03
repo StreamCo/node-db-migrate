@@ -36,7 +36,7 @@
   "devDependencies": {
     "vows": "~0.7.0",
     "db-meta": "~0.4.1",
-    "mysql": "~2.0.0",
+    "mysql": "~2.18.1",
     "pg": "~1.0.0",
     "sqlite3": "~2.1.0"
   },
